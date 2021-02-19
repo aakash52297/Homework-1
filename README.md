@@ -9,5 +9,3 @@ After making the necessary changes to the html code, I moved onto the CSS part t
 Throughout this entire process I received helped from my fellow colleagues and instructors as well. They looked over my work and guided me through certain points where I got stuck. 
 
 Link to the website is going to be:  https://aakash52297.github.io/Homework-1/.
-
-Screenshot of webpage:
