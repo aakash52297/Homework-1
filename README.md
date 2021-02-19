@@ -10,4 +10,4 @@ Throughout this entire process I received helped from my fellow colleagues and i
 
 Link to the website is going to be:  https://aakash52297.github.io/Homework-1/.
 
-![link to screenshot](https://github.com/aakash52297/Homework-1/blob/main/assets/images/2021-02-19-01-56-aakash52297.github.io.png)
+![link to screenshot](https://github.com/aakash52297/Homework-1/blob/main/assets/images/2021-02-19-02-06-aakash52297.github.io.png)
